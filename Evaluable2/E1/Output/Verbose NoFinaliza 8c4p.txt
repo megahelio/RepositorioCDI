@@ -1,0 +1,39 @@
+___________________InicioMain__________________
+Thread-2 :::BATERIA::: 70
+Thread-11 :::BATERIA::: 20
+Thread-0 :::BATERIA::: 90
+Bandeja Vacía
+Thread-9 :::BATERIA::: 20
+Thread-3 :::BATERIA::: 50
+Thread-5 :::BATERIA::: 40
+Thread-1 :::BATERIA::: 80
+Thread-4 :::BATERIA::: 60
+Thread-10 :::BATERIA::: 20
+Thread-8 :::BATERIA::: 20
+Bandeja Vacía
+Thread-7 :::BATERIA::: 20
+Thread-6 :::BATERIA::: 30
+Enviamos el email 6 a la bandeja
+Thread-8 :::BATERIA::: 20
+Enviamos el email 3 a la bandeja
+Thread-10 :::BATERIA::: 20
+Abrimos el email 3 de la bandeja
+Thread-4 :::BATERIA::: 10
+Abrimos el email 6 de la bandeja
+Enviamos el email 0 a la bandeja
+Enviamos el email 2 a la bandeja
+Abrimos el email 2 de la bandeja
+Abrimos el email 0 de la bandeja
+Exception in thread "Thread-4" Enviamos el email 9 a la bandeja
+Enviamos el email 9 a la bandeja
+java.util.NoSuchElementExceptionAbrimos el email 9 de la bandeja
+
+Abrimos el email 9 de la bandeja
+Bandeja Vacía
+        at java.base/java.util.LinkedList.removeLast(LinkedList.java:287)
+        at Buffer.abrir(p2e1.java:168)
+        at Reader.run(p2e1.java:133)
+Exception in thread "Thread-6" java.util.NoSuchElementException
+        at java.base/java.util.LinkedList.removeLast(LinkedList.java:287)
+        at Buffer.abrir(p2e1.java:168)
+        at Reader.run(p2e1.java:133)

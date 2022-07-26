@@ -1,0 +1,12 @@
+___________________InicioMain__________________
+Thread-6 :::BATERIA::: 20
+Thread-0 :::BATERIA::: 90
+Thread-1 :::BATERIA::: 70
+Thread-2 :::BATERIA::: 60
+Thread-4 :::BATERIA::: 40
+Thread-5 :::BATERIA::: 30
+Thread-7 :::BATERIA::: 10
+Thread-19 :::BATERIA::: 80
+Thread-3 :::BATERIA::: 50
+Enviamos el email 0 a la bandeja
+Abrimos el email 0 de la bandeja

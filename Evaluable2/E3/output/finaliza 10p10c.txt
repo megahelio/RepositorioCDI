@@ -1,0 +1,221 @@
+___________________InicioMain__________________
+Thread-19 :::BATERIA::: 30
+Thread-15 :::BATERIA::: 60
+Thread-0 :::BATERIA::: 90
+Thread-16 :::BATERIA::: 10
+Thread-18 :::BATERIA::: 40
+Thread-2 :::BATERIA::: 70
+Thread-3 :::BATERIA::: 20
+Thread-1 :::BATERIA::: 80
+Thread-17 :::BATERIA::: 50
+Enviamos el email 8 a la bandeja
+Enviamos el email 7 a la bandeja
+Enviamos el email 3 a la bandeja
+Enviamos el email 2 a la bandeja
+Enviamos el email 6 a la bandeja
+Abrimos el email 7 de la bandeja
+Abrimos el email 3 de la bandeja
+Abrimos el email 8 de la bandeja
+Abrimos el email 2 de la bandeja
+___________________FinMain__________________
+
+___________________InicioMain__________________
+Thread-3 :::BATERIA::: 97
+Thread-12 :::BATERIA::: 88
+Thread-17 :::BATERIA::: 83
+Thread-6 :::BATERIA::: 93
+Thread-0 :::BATERIA::: 99
+Thread-14 :::BATERIA::: 86
+Thread-1 :::BATERIA::: 96
+Thread-10 :::BATERIA::: 90
+Thread-18 :::BATERIA::: 82
+Thread-11 :::BATERIA::: 89
+Thread-13 :::BATERIA::: 87
+Thread-9 :::BATERIA::: 91
+Thread-8 :::BATERIA::: 80
+Thread-4 :::BATERIA::: 98
+Thread-7 :::BATERIA::: 92
+Thread-5 :::BATERIA::: 94
+Thread-2 :::BATERIA::: 95
+Thread-16 :::BATERIA::: 84
+Thread-19 :::BATERIA::: 81
+Thread-15 :::BATERIA::: 85
+Enviamos el email 8 a la bandeja
+Enviamos el email 0 a la bandeja
+Enviamos el email 5 a la bandeja
+Enviamos el email 4 a la bandeja
+Enviamos el email 4 a la bandeja
+Enviamos el email 4 a la bandeja
+Thread-18 :::BATERIA::: 78
+Enviamos el email 3 a la bandeja
+Thread-15 :::BATERIA::: 79
+Thread-14 :::BATERIA::: 73
+Enviamos el email 2 a la bandeja
+Thread-12 :::BATERIA::: 74
+Thread-19 :::BATERIA::: 75
+Enviamos el email 0 a la bandeja
+Thread-19 :::BATERIA::: 71
+Enviamos el email 6 a la bandeja
+Thread-19 :::BATERIA::: 70
+Enviamos el email 1 a la bandeja
+Thread-19 :::BATERIA::: 69
+Enviamos el email 6 a la bandeja
+Thread-19 :::BATERIA::: 68
+Enviamos el email 7 a la bandeja
+Thread-19 :::BATERIA::: 67
+Enviamos el email 7 a la bandeja
+Thread-19 :::BATERIA::: 66
+Enviamos el email 0 a la bandeja
+Thread-19 :::BATERIA::: 65
+Abrimos el email 6 de la bandeja
+Thread-8 :::BATERIA::: 64
+Abrimos el email 2 de la bandeja
+Thread-8 :::BATERIA::: 63
+Abrimos el email 5 de la bandeja
+Thread-8 :::BATERIA::: 62
+Abrimos el email 8 de la bandeja
+Thread-8 :::BATERIA::: 61
+Abrimos el email 0 de la bandeja
+Thread-8 :::BATERIA::: 60
+Abrimos el email 6 de la bandeja
+Thread-8 :::BATERIA::: 59
+Enviamos el email 3 a la bandeja
+Abrimos el email 4 de la bandeja
+Thread-6 :::BATERIA::: 57
+Enviamos el email 6 a la bandeja
+Abrimos el email 3 de la bandeja
+Abrimos el email 5 de la bandeja
+Thread-17 :::BATERIA::: 76
+Enviamos el email 1 a la bandeja
+Abrimos el email 0 de la bandeja
+Thread-10 :::BATERIA::: 77
+Thread-0 :::BATERIA::: 52
+Abrimos el email 3 de la bandeja
+Thread-4 :::BATERIA::: 51
+Abrimos el email 8 de la bandeja
+Thread-11 :::BATERIA::: 53
+Thread-3 :::BATERIA::: 54
+Enviamos el email 7 a la bandeja
+Thread-7 :::BATERIA::: 55
+Thread-13 :::BATERIA::: 56
+Enviamos el email 6 a la bandeja
+Thread-13 :::BATERIA::: 48
+Abrimos el email 6 de la bandeja
+Thread-6 :::BATERIA::: 47
+Thread-16 :::BATERIA::: 58
+Abrimos el email 1 de la bandeja
+Abrimos el email 1 de la bandeja
+Abrimos el email 4 de la bandeja
+Abrimos el email 4 de la bandeja
+Thread-18 :::BATERIA::: 72
+Enviamos el email 8 a la bandeja
+Enviamos el email 5 a la bandeja
+Thread-15 :::BATERIA::: 41
+Enviamos el email 2 a la bandeja
+Thread-15 :::BATERIA::: 40
+Enviamos el email 8 a la bandeja
+Thread-15 :::BATERIA::: 39
+Enviamos el email 0 a la bandeja
+Thread-15 :::BATERIA::: 38
+Enviamos el email 7 a la bandeja
+Thread-15 :::BATERIA::: 37
+Enviamos el email 5 a la bandeja
+Thread-14 :::BATERIA::: 42
+Enviamos el email 4 a la bandeja
+Thread-1 :::BATERIA::: 43
+Thread-5 :::BATERIA::: 44
+Thread-9 :::BATERIA::: 45
+Thread-12 encontró la bandeja llena.
+Thread-12 :::BATERIA::: 34
+Thread-8 :::BATERIA::: 46
+Abrimos el email 6 de la bandeja
+Thread-5 :::BATERIA::: 33
+Enviamos el email 8 a la bandeja
+Abrimos el email 0 de la bandeja
+Thread-6 :::BATERIA::: 31
+Abrimos el email 2 de la bandeja
+Thread-6 :::BATERIA::: 30
+Abrimos el email 8 de la bandeja
+Thread-6 :::BATERIA::: 29
+Abrimos el email 0 de la bandeja
+Thread-6 :::BATERIA::: 28
+Abrimos el email 7 de la bandeja
+Thread-6 :::BATERIA::: 27
+Abrimos el email 5 de la bandeja
+Thread-6 :::BATERIA::: 26
+Abrimos el email 2 de la bandeja
+Thread-6 :::BATERIA::: 25
+Enviamos el email 7 a la bandeja
+Thread-13 :::BATERIA::: 24
+Abrimos el email 7 de la bandeja
+Abrimos el email 3 de la bandeja
+Thread-7 :::BATERIA::: 23
+Thread-17 :::BATERIA::: 49
+Abrimos el email 0 de la bandeja
+Thread-3 :::BATERIA::: 21
+Enviamos el email 9 a la bandeja
+Thread-2 :::BATERIA::: 50
+Abrimos el email 7 de la bandeja
+Thread-4 :::BATERIA::: 19
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 18
+Enviamos el email 0 a la bandeja
+Thread-11 :::BATERIA::: 20
+Abrimos el email 3 de la bandeja
+Abrimos el email 2 de la bandeja
+Thread-3 :::BATERIA::: 15
+Enviamos el email 3 a la bandeja
+Thread-6 :::BATERIA::: 22
+Enviamos el email 3 a la bandeja
+Abrimos el email 4 de la bandeja
+Enviamos el email 2 a la bandeja
+Thread-16 :::BATERIA::: 32
+Abrimos el email 8 de la bandeja
+Abrimos el email 7 de la bandeja
+Thread-14 encontró la bandeja llena.
+Thread-8 :::BATERIA::: 9
+Enviamos el email 5 a la bandeja
+Thread-16 :::BATERIA::: 7
+Thread-19 encontró la bandeja llena.
+Abrimos el email 9 de la bandeja
+Thread-1 :::BATERIA::: 5
+Thread-18 :::BATERIA::: 35
+Thread-15 :::BATERIA::: 36
+Abrimos el email 9 de la bandeja
+Enviamos el email 8 a la bandeja
+Abrimos el email 8 de la bandeja
+Thread-3 :::BATERIA::: 2
+Enviamos el email 9 a la bandeja
+Thread-18 :::BATERIA::: 1
+Thread-19 :::BATERIA::: 6
+Abrimos el email 0 de la bandeja
+Enviamos el email 0 a la bandeja
+Abrimos el email 5 de la bandeja
+Thread-14 :::BATERIA::: 8
+Thread-5 :::BATERIA::: 10
+Abrimos el email 4 de la bandeja
+Thread-12 :::BATERIA::: 11
+Enviamos el email 8 a la bandeja
+Thread-9 :::BATERIA::: 12
+Thread-13 :::BATERIA::: 13
+Thread-17 :::BATERIA::: 14
+Thread-7 :::BATERIA::: 16
+Abrimos el email 5 de la bandeja
+Enviamos el email 2 a la bandeja
+Thread-10 :::BATERIA::: 17
+Enviamos el email 5 a la bandeja
+Abrimos el email 3 de la bandeja
+Abrimos el email 6 de la bandeja
+Enviamos el email 6 a la bandeja
+Abrimos el email 8 de la bandeja
+Enviamos el email 4 a la bandeja
+Abrimos el email 4 de la bandeja
+Enviamos el email 4 a la bandeja
+Abrimos el email 0 de la bandeja
+Enviamos el email 0 a la bandeja
+Thread-15 :::BATERIA::: 3
+Thread-0 :::BATERIA::: 4
+Enviamos el email 4 a la bandeja
+Enviamos el email 3 a la bandeja
+Abrimos el email 4 de la bandeja
+___________________FinMain__________________

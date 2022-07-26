@@ -1,0 +1,22 @@
+#!/bin/bash
+cont1=1
+cont2=6
+i=6
+# javac p2e1.java
+# javac p2e1Temporizado.java
+rm outputE1_temporizado.txt
+javac p2e1Temporizado_pruebas.java
+while [ $i -ne 0 ]
+do
+    con1=$(($cont1+1))
+    cont2=$(($cont2-1))
+    # ----------------------------------------------
+    # EJERCICIO 1:
+    # java p2e1 $cont1 $cont2 >> outputE1.txt
+    # java p2e1 $con1 $cont2 >> outputE1.txt
+    # java p2e1Temporizado $cont1 $cont2 >> outputE1_temporizado.txt
+    # java p2e1Temporizado $cont2 $cont1 >> outputE1_temporizado.txt
+    java p2e1Temporizado_pruebas $cont1 $cont2 >> outputE1_temporizado.txt
+    java p2e1Temporizado_pruebas $cont2 $cont1 >> outputE1_temporizado.txt
+    i=$(($i-1))
+done

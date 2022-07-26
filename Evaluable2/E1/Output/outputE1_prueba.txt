@@ -1,0 +1,2178 @@
+___________________InicioMain__________________
+Thread-6 :::BATERIA::: 94
+Thread-12 :::BATERIA::: 87
+Thread-7 :::BATERIA::: 92
+Thread-2 :::BATERIA::: 93
+Thread-13 :::BATERIA::: 86
+Thread-5 :::BATERIA::: 95
+Thread-11 :::BATERIA::: 88
+Thread-8 :::BATERIA::: 91
+Thread-14 :::BATERIA::: 85
+Thread-3 :::BATERIA::: 97
+Thread-10 :::BATERIA::: 89
+Thread-1 :::BATERIA::: 98
+Thread-15 :::BATERIA::: 84
+Thread-4 :::BATERIA::: 96
+Thread-0 :::BATERIA::: 99
+Thread-9 :::BATERIA::: 90
+Enviamos el email 9 a la bandeja
+Thread-6 :::BATERIA::: 83
+Enviamos el email 2 a la bandeja
+Thread-6 :::BATERIA::: 82
+Enviamos el email 4 a la bandeja
+Thread-6 :::BATERIA::: 81
+Enviamos el email 2 a la bandeja
+Thread-6 :::BATERIA::: 80
+Enviamos el email 2 a la bandeja
+Thread-6 :::BATERIA::: 79
+Enviamos el email 4 a la bandeja
+Thread-6 :::BATERIA::: 78
+Enviamos el email 8 a la bandeja
+Thread-6 :::BATERIA::: 77
+Enviamos el email 6 a la bandeja
+Thread-6 :::BATERIA::: 76
+Enviamos el email 5 a la bandeja
+Thread-9 :::BATERIA::: 75
+Enviamos el email 5 a la bandeja
+Thread-9 :::BATERIA::: 74
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 73
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 72
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 71
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 70
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 69
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 68
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 67
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 66
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 65
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 64
+Enviamos el email 3 a la bandeja
+Thread-14 :::BATERIA::: 63
+Enviamos el email 4 a la bandeja
+Thread-14 :::BATERIA::: 62
+Enviamos el email 0 a la bandeja
+Thread-14 :::BATERIA::: 61
+Enviamos el email 2 a la bandeja
+Thread-14 :::BATERIA::: 60
+Enviamos el email 3 a la bandeja
+Thread-14 :::BATERIA::: 59
+Enviamos el email 0 a la bandeja
+Thread-14 :::BATERIA::: 58
+Enviamos el email 6 a la bandeja
+Thread-14 :::BATERIA::: 57
+Enviamos el email 2 a la bandeja
+Thread-14 :::BATERIA::: 56
+Enviamos el email 5 a la bandeja
+Thread-14 :::BATERIA::: 55
+Enviamos el email 3 a la bandeja
+Thread-14 :::BATERIA::: 54
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+Thread-8 :::BATERIA::: 91
+Thread-4 :::BATERIA::: 96
+Thread-7 :::BATERIA::: 93
+Thread-3 :::BATERIA::: 97
+Thread-14 :::BATERIA::: 86
+Thread-15 :::BATERIA::: 85
+Thread-9 :::BATERIA::: 90
+Thread-5 :::BATERIA::: 95
+Thread-2 :::BATERIA::: 92
+Thread-10 :::BATERIA::: 89
+Thread-12 :::BATERIA::: 84
+Thread-1 :::BATERIA::: 98
+Thread-11 :::BATERIA::: 88
+Thread-13 :::BATERIA::: 87
+Thread-6 :::BATERIA::: 94
+Thread-0 :::BATERIA::: 99
+Enviamos el email 7 a la bandeja
+Thread-8 :::BATERIA::: 83
+Enviamos el email 8 a la bandeja
+Thread-7 :::BATERIA::: 82
+Enviamos el email 7 a la bandeja
+Thread-3 :::BATERIA::: 81
+Enviamos el email 4 a la bandeja
+Thread-14 :::BATERIA::: 80
+Enviamos el email 4 a la bandeja
+Thread-15 :::BATERIA::: 79
+Enviamos el email 3 a la bandeja
+Thread-9 :::BATERIA::: 78
+Enviamos el email 2 a la bandeja
+Thread-5 :::BATERIA::: 77
+Enviamos el email 9 a la bandeja
+Thread-2 :::BATERIA::: 76
+Enviamos el email 9 a la bandeja
+Thread-10 :::BATERIA::: 75
+Enviamos el email 2 a la bandeja
+Thread-12 :::BATERIA::: 74
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 73
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 72
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 71
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 70
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 69
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 68
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 67
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 66
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 65
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 64
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 63
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 62
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 61
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 60
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 59
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 58
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 57
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 56
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 55
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 54
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 53
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 52
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 51
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 50
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 49
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 48
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 47
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 46
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 45
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 44
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 43
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 42
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 41
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 40
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 39
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 38
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 37
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 36
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 35
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 34
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 33
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 32
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 31
+Enviamos el email 2 a la bandeja
+Thread-6 :::BATERIA::: 30
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 29
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 28
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 27
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 26
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 25
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 24
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 23
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 22
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 21
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 20
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 19
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 18
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 17
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 16
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 15
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 14
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 13
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-13 :::BATERIA::: 12
+Abrimos el email 8 de la bandeja
+Enviamos el email 2 a la bandeja
+Thread-0 :::BATERIA::: 11
+Thread-8 :::BATERIA::: 10
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Enviamos el email 0 a la bandeja
+Thread-0 :::BATERIA::: 9
+Thread-4 :::BATERIA::: 8
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 7
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 6
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 5
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 4
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 3
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 2
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 1
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+Thread-13 :::BATERIA::: 87
+Thread-7 :::BATERIA::: 92
+Thread-6 :::BATERIA::: 93
+Thread-10 :::BATERIA::: 90
+Thread-8 :::BATERIA::: 91
+Thread-14 :::BATERIA::: 86
+Thread-5 :::BATERIA::: 94
+Thread-11 :::BATERIA::: 89
+Thread-1 :::BATERIA::: 98
+Thread-4 :::BATERIA::: 95
+Thread-12 :::BATERIA::: 88
+Thread-2 :::BATERIA::: 97
+Thread-0 :::BATERIA::: 99
+Thread-3 :::BATERIA::: 96
+Thread-9 :::BATERIA::: 85
+___________________InicioMain__________________
+___________________InicioMain__________________
+___________________InicioMain__________________
+___________________InicioMain__________________
+Thread-10 :::BATERIA::: 89
+Thread-1 :::BATERIA::: 98
+Thread-6 :::BATERIA::: 93
+Thread-9 :::BATERIA::: 90
+Thread-2 :::BATERIA::: 97
+Thread-4 :::BATERIA::: 95
+Thread-8 :::BATERIA::: 91
+Thread-3 :::BATERIA::: 96
+Thread-0 :::BATERIA::: 99
+Thread-7 :::BATERIA::: 92
+Thread-5 :::BATERIA::: 94
+Enviamos el email 1 a la bandeja
+Thread-10 :::BATERIA::: 88
+Enviamos el email 8 a la bandeja
+Thread-10 :::BATERIA::: 87
+Enviamos el email 6 a la bandeja
+Thread-10 :::BATERIA::: 86
+Enviamos el email 1 a la bandeja
+Thread-10 :::BATERIA::: 85
+Enviamos el email 2 a la bandeja
+Thread-10 :::BATERIA::: 84
+Enviamos el email 9 a la bandeja
+Thread-10 :::BATERIA::: 83
+Enviamos el email 4 a la bandeja
+Thread-10 :::BATERIA::: 82
+Enviamos el email 6 a la bandeja
+Thread-10 :::BATERIA::: 81
+Enviamos el email 6 a la bandeja
+Thread-10 :::BATERIA::: 80
+Enviamos el email 9 a la bandeja
+Thread-10 :::BATERIA::: 79
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Enviamos el email 9 a la bandeja
+Thread-0 :::BATERIA::: 78
+Bandeja Llena
+Thread-7 :::BATERIA::: 77
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 76
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 75
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 74
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 73
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 72
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 71
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 70
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 69
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 68
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 67
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Enviamos el email 2 a la bandeja
+Thread-0 :::BATERIA::: 66
+Thread-7 :::BATERIA::: 65
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 64
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 63
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 62
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 61
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 60
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 59
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 58
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 57
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 56
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 55
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 54
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 53
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 52
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 51
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 50
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 49
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 48
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 47
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 46
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 45
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 44
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 43
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 42
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 41
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 40
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 39
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 38
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 37
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Enviamos el email 1 a la bandeja
+Thread-0 :::BATERIA::: 36
+Thread-8 :::BATERIA::: 35
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 34
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 33
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 32
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 31
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 30
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 29
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 28
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 27
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 26
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 25
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 24
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 23
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 22
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 21
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 20
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 19
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 18
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 17
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 16
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 15
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 14
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 13
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 12
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 11
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 10
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 9
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 8
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 7
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 6
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Thread-7 :::BATERIA::: 5
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 4
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-8 :::BATERIA::: 3
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Enviamos el email 7 a la bandeja
+Thread-0 :::BATERIA::: 2
+Thread-7 :::BATERIA::: 1
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 7 de la bandeja
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+Thread-9 :::BATERIA::: 91
+Thread-8 :::BATERIA::: 92
+Thread-0 :::BATERIA::: 99
+Bandeja Vacía
+Thread-5 :::BATERIA::: 95
+Thread-2 :::BATERIA::: 90
+Thread-7 :::BATERIA::: 93
+Thread-4 :::BATERIA::: 96
+Thread-6 :::BATERIA::: 94
+Thread-3 :::BATERIA::: 97
+Thread-1 :::BATERIA::: 98
+Enviamos el email 3 a la bandeja
+Thread-9 :::BATERIA::: 89
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 88
+Enviamos el email 1 a la bandeja
+Thread-9 :::BATERIA::: 87
+Enviamos el email 0 a la bandeja
+Thread-9 :::BATERIA::: 86
+Enviamos el email 7 a la bandeja
+Thread-9 :::BATERIA::: 85
+Enviamos el email 0 a la bandeja
+Thread-1 :::BATERIA::: 84
+Enviamos el email 4 a la bandeja
+Thread-3 :::BATERIA::: 83
+Enviamos el email 2 a la bandeja
+Thread-3 :::BATERIA::: 82
+Enviamos el email 7 a la bandeja
+Thread-6 :::BATERIA::: 81
+Enviamos el email 2 a la bandeja
+Thread-6 :::BATERIA::: 80
+Enviamos el email 3 a la bandeja
+Thread-4 :::BATERIA::: 79
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 78
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+Thread-8 :::BATERIA::: 91
+Thread-4 :::BATERIA::: 95
+Thread-1 :::BATERIA::: 98
+Thread-5 :::BATERIA::: 94
+Thread-0 :::BATERIA::: 99
+Thread-3 :::BATERIA::: 96
+Thread-6 :::BATERIA::: 93
+Thread-2 :::BATERIA::: 97
+Thread-7 :::BATERIA::: 92
+Enviamos el email 8 a la bandeja
+Thread-8 :::BATERIA::: 90
+Enviamos el email 8 a la bandeja
+Thread-8 :::BATERIA::: 89
+Enviamos el email 3 a la bandeja
+Thread-8 :::BATERIA::: 88
+Enviamos el email 3 a la bandeja
+Thread-8 :::BATERIA::: 87
+Enviamos el email 7 a la bandeja
+Thread-8 :::BATERIA::: 86
+Enviamos el email 1 a la bandeja
+Thread-8 :::BATERIA::: 85
+Enviamos el email 6 a la bandeja
+Thread-8 :::BATERIA::: 84
+Enviamos el email 3 a la bandeja
+Thread-8 :::BATERIA::: 83
+Enviamos el email 6 a la bandeja
+Thread-8 :::BATERIA::: 82
+Enviamos el email 6 a la bandeja
+Thread-1 :::BATERIA::: 81
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 80
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 79
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 78
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 77
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 76
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 75
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 74
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 73
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 72
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 71
+Enviamos el email 8 a la bandeja
+Thread-1 :::BATERIA::: 70
+Enviamos el email 5 a la bandeja
+Thread-1 :::BATERIA::: 69
+Enviamos el email 3 a la bandeja
+Thread-1 :::BATERIA::: 68
+Enviamos el email 3 a la bandeja
+Thread-1 :::BATERIA::: 67
+Enviamos el email 9 a la bandeja
+Thread-1 :::BATERIA::: 66
+Enviamos el email 5 a la bandeja
+Thread-1 :::BATERIA::: 65
+Enviamos el email 8 a la bandeja
+Thread-1 :::BATERIA::: 64
+Enviamos el email 2 a la bandeja
+Thread-1 :::BATERIA::: 63
+Enviamos el email 0 a la bandeja
+Thread-1 :::BATERIA::: 62
+Enviamos el email 3 a la bandeja
+Thread-1 :::BATERIA::: 61
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+Thread-3 :::BATERIA::: 97
+Thread-1 :::BATERIA::: 98
+Thread-7 :::BATERIA::: 92
+Thread-5 :::BATERIA::: 95
+Thread-2 :::BATERIA::: 94
+Thread-4 :::BATERIA::: 96
+Thread-0 :::BATERIA::: 99
+Thread-6 :::BATERIA::: 93
+Enviamos el email 9 a la bandeja
+Thread-3 :::BATERIA::: 91
+Enviamos el email 6 a la bandeja
+Thread-3 :::BATERIA::: 90
+Enviamos el email 5 a la bandeja
+Thread-3 :::BATERIA::: 89
+Enviamos el email 7 a la bandeja
+Thread-3 :::BATERIA::: 88
+Enviamos el email 4 a la bandeja
+Thread-6 :::BATERIA::: 87
+Enviamos el email 7 a la bandeja
+Thread-6 :::BATERIA::: 86
+Enviamos el email 7 a la bandeja
+Thread-6 :::BATERIA::: 85
+Enviamos el email 3 a la bandeja
+Thread-6 :::BATERIA::: 84
+Enviamos el email 4 a la bandeja
+Thread-6 :::BATERIA::: 83
+Enviamos el email 6 a la bandeja
+Thread-6 :::BATERIA::: 82
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 81
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 80
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 79
+Enviamos el email 2 a la bandeja
+Thread-6 :::BATERIA::: 78
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 77
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 76
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 75
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 74
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 73
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 72
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 71
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 70
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 69
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 68
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 67
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 66
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 65
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 64
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 63
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 62
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 61
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 60
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 59
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 58
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 57
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 56
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 55
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 54
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 53
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 52
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 51
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 50
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 49
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 48
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 47
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 46
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 45
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 44
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 43
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 42
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 41
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 40
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 39
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 38
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 37
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 36
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 35
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 34
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 33
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 32
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 31
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 30
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 29
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 28
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 27
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 26
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 25
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 24
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 23
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 22
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 21
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 20
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 19
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 18
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 17
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 16
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 15
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 14
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 13
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 12
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 11
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 10
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 9
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 8
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 7
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 6
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 5
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-4 :::BATERIA::: 4
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 3
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 2
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 1
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+Thread-3 :::BATERIA::: 97
+Thread-0 :::BATERIA::: 99
+Bandeja Vacía
+Thread-1 :::BATERIA::: 98
+Thread-6 :::BATERIA::: 93
+Thread-4 :::BATERIA::: 96
+Thread-5 :::BATERIA::: 94
+Thread-2 :::BATERIA::: 95
+Enviamos el email 1 a la bandeja
+Thread-3 :::BATERIA::: 92
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 91
+Enviamos el email 7 a la bandeja
+Thread-3 :::BATERIA::: 90
+Enviamos el email 5 a la bandeja
+Thread-6 :::BATERIA::: 89
+Enviamos el email 8 a la bandeja
+Thread-4 :::BATERIA::: 88
+Enviamos el email 5 a la bandeja
+Thread-5 :::BATERIA::: 87
+Enviamos el email 6 a la bandeja
+Thread-2 :::BATERIA::: 86
+Enviamos el email 7 a la bandeja
+Thread-1 :::BATERIA::: 85
+Enviamos el email 9 a la bandeja
+Thread-2 :::BATERIA::: 84
+Enviamos el email 3 a la bandeja
+Thread-5 :::BATERIA::: 83
+Enviamos el email 7 a la bandeja
+Thread-4 :::BATERIA::: 82
+Enviamos el email 3 a la bandeja
+Thread-6 :::BATERIA::: 81
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 80
+Enviamos el email 1 a la bandeja
+Thread-3 :::BATERIA::: 79
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 78
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 77
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 76
+Enviamos el email 6 a la bandeja
+Thread-3 :::BATERIA::: 75
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 74
+Enviamos el email 0 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 73
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 72
+Enviamos el email 1 a la bandeja
+Thread-3 :::BATERIA::: 71
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 70
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 69
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 68
+Enviamos el email 5 a la bandeja
+Thread-3 :::BATERIA::: 67
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 66
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 65
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 64
+Enviamos el email 8 a la bandeja
+Thread-3 :::BATERIA::: 63
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 62
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 61
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 60
+Enviamos el email 3 a la bandeja
+Thread-3 :::BATERIA::: 59
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 58
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 57
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 56
+Enviamos el email 6 a la bandeja
+Thread-3 :::BATERIA::: 55
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 54
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-6 :::BATERIA::: 53
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 52
+Enviamos el email 4 a la bandeja
+Thread-3 :::BATERIA::: 51
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 50
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 49
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 48
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 47
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 46
+Enviamos el email 3 a la bandeja
+Thread-6 :::BATERIA::: 45
+Enviamos el email 1 a la bandeja
+Thread-6 :::BATERIA::: 44
+Enviamos el email 4 a la bandeja
+Thread-1 :::BATERIA::: 43
+Enviamos el email 3 a la bandeja
+Thread-2 :::BATERIA::: 42
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-5 :::BATERIA::: 41
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Enviamos el email 0 a la bandeja
+Thread-0 :::BATERIA::: 40
+Bandeja Llena
+Thread-3 :::BATERIA::: 39
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 38
+Enviamos el email 9 a la bandeja
+Thread-6 :::BATERIA::: 37
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 36
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 35
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 34
+Enviamos el email 6 a la bandeja
+Thread-6 :::BATERIA::: 33
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 32
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 31
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 30
+Enviamos el email 5 a la bandeja
+Thread-6 :::BATERIA::: 29
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 28
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 27
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 26
+Enviamos el email 3 a la bandeja
+Thread-6 :::BATERIA::: 25
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 24
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 23
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 22
+Enviamos el email 9 a la bandeja
+Thread-6 :::BATERIA::: 21
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 20
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 19
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 18
+Enviamos el email 7 a la bandeja
+Thread-6 :::BATERIA::: 17
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 16
+Enviamos el email 3 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 15
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 14
+Enviamos el email 4 a la bandeja
+Thread-6 :::BATERIA::: 13
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 12
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 11
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 10
+Enviamos el email 4 a la bandeja
+Thread-6 :::BATERIA::: 9
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 8
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 7
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 6
+Enviamos el email 6 a la bandeja
+Thread-6 :::BATERIA::: 5
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 4
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 3
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 2
+Enviamos el email 1 a la bandeja
+Thread-6 :::BATERIA::: 1
+Abrimos el email 1 de la bandeja
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+___________________InicioMain__________________
+java p2e11nProductores0
+___________________FinMain__________________
+___________________InicioMain__________________
+___________________InicioMain__________________
+Thread-4 :::BATERIA::: 95
+Thread-6 :::BATERIA::: 93
+Thread-7 :::BATERIA::: 89
+Thread-15 :::BATERIA::: 84
+Thread-5 :::BATERIA::: 94
+Thread-13 :::BATERIA::: 86
+Thread-10 :::BATERIA::: 90
+Thread-2 :::BATERIA::: 97
+Thread-8 :::BATERIA::: 92
+Thread-1 :::BATERIA::: 98
+Thread-0 :::BATERIA::: 99
+Thread-12 :::BATERIA::: 87
+Thread-3 :::BATERIA::: 96
+Thread-14 :::BATERIA::: 85
+Thread-9 :::BATERIA::: 91
+Enviamos el email 1 a la bandeja
+Thread-4 :::BATERIA::: 83
+Enviamos el email 9 a la bandeja
+Thread-4 :::BATERIA::: 82
+Enviamos el email 7 a la bandeja
+Thread-4 :::BATERIA::: 81
+Enviamos el email 4 a la bandeja
+Thread-9 :::BATERIA::: 80
+Enviamos el email 2 a la bandeja
+Thread-9 :::BATERIA::: 79
+Enviamos el email 5 a la bandeja
+Thread-11 :::BATERIA::: 88
+Enviamos el email 5 a la bandeja
+Thread-8 :::BATERIA::: 77
+Enviamos el email 4 a la bandeja
+Thread-8 :::BATERIA::: 76
+Enviamos el email 7 a la bandeja
+Thread-9 :::BATERIA::: 78
+Enviamos el email 3 a la bandeja
+Thread-8 :::BATERIA::: 75
+Bandeja Llena
+Thread-7 :::BATERIA::: 74
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 3 de la bandeja
+Thread-0 :::BATERIA::: 73
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 72
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 71
+Enviamos el email 4 a la bandeja
+Thread-1 :::BATERIA::: 70
+Enviamos el email 2 a la bandeja
+Thread-1 :::BATERIA::: 69
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 68
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 67
+Abrimos el email 5 de la bandeja
+Enviamos el email 6 a la bandeja
+Thread-12 :::BATERIA::: 65
+Thread-0 :::BATERIA::: 66
+Enviamos el email 9 a la bandeja
+Enviamos el email 9 a la bandeja
+Thread-3 :::BATERIA::: 64
+Enviamos el email 9 a la bandeja
+Thread-10 :::BATERIA::: 62
+Bandeja Llena
+Thread-6 :::BATERIA::: 63
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 61
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 60
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 59
+Enviamos el email 0 a la bandeja
+Thread-3 :::BATERIA::: 58
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 57
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-1 :::BATERIA::: 56
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 55
+Enviamos el email 8 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 54
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 8 de la bandeja
+Enviamos el email 4 a la bandeja
+Thread-12 :::BATERIA::: 52
+Thread-0 :::BATERIA::: 53
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 51
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 50
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 49
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 48
+Enviamos el email 1 a la bandeja
+Thread-12 :::BATERIA::: 47
+Enviamos el email 9 a la bandeja
+Thread-3 :::BATERIA::: 46
+Enviamos el email 8 a la bandeja
+Thread-4 :::BATERIA::: 45
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-11 :::BATERIA::: 44
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 43
+Enviamos el email 5 a la bandeja
+Thread-1 :::BATERIA::: 42
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 41
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 40
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 39
+Enviamos el email 8 a la bandeja
+Abrimos el email 8 de la bandeja
+Thread-1 :::BATERIA::: 38
+Enviamos el email 9 a la bandeja
+Thread-0 :::BATERIA::: 37
+Thread-12 :::BATERIA::: 36
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 35
+Enviamos el email 8 a la bandeja
+Thread-1 :::BATERIA::: 34
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 33
+Enviamos el email 2 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 32
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 31
+Enviamos el email 0 a la bandeja
+Thread-1 :::BATERIA::: 30
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 29
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 28
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Thread-0 :::BATERIA::: 27
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 26
+Enviamos el email 9 a la bandeja
+Abrimos el email 9 de la bandeja
+Thread-1 :::BATERIA::: 25
+Thread-0 :::BATERIA::: 24
+Enviamos el email 3 a la bandeja
+Thread-12 :::BATERIA::: 23
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-3 :::BATERIA::: 22
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 21
+Enviamos el email 4 a la bandeja
+Thread-1 :::BATERIA::: 20
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 19
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Thread-12 :::BATERIA::: 18
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 17
+Enviamos el email 2 a la bandeja
+Thread-1 :::BATERIA::: 16
+Abrimos el email 2 de la bandeja
+Thread-0 :::BATERIA::: 15
+Enviamos el email 5 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 14
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 5 de la bandeja
+Thread-0 :::BATERIA::: 13
+Enviamos el email 6 a la bandeja
+Thread-1 :::BATERIA::: 12
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 11
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 10
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Thread-0 :::BATERIA::: 9
+Enviamos el email 0 a la bandeja
+Thread-1 :::BATERIA::: 8
+Abrimos el email 0 de la bandeja
+Thread-0 :::BATERIA::: 7
+Enviamos el email 1 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 6
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 5
+Enviamos el email 7 a la bandeja
+Thread-1 :::BATERIA::: 4
+Abrimos el email 7 de la bandeja
+Thread-0 :::BATERIA::: 3
+Enviamos el email 4 a la bandeja
+Bandeja Llena
+Thread-12 :::BATERIA::: 2
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Abrimos el email 4 de la bandeja
+Thread-0 :::BATERIA::: 1
+Enviamos el email 2 a la bandeja
+Abrimos el email 2 de la bandeja
+Enviamos el email 7 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+___________________InicioMain__________________
+___________________InicioMain__________________
+Thread-11 :::BATERIA::: 91
+Thread-0 :::BATERIA::: 99
+Bandeja Vacía
+Thread-4 :::BATERIA::: 95
+Thread-1 :::BATERIA::: 98
+Thread-9 :::BATERIA::: 89
+Thread-5 :::BATERIA::: 94
+Thread-10 :::BATERIA::: 90
+Thread-6 :::BATERIA::: 93
+Thread-8 :::BATERIA::: 88
+Thread-2 :::BATERIA::: 97
+Thread-12 :::BATERIA::: 92
+Thread-13 :::BATERIA::: 86
+Thread-7 :::BATERIA::: 87
+Thread-3 :::BATERIA::: 96
+Enviamos el email 8 a la bandeja
+Thread-11 :::BATERIA::: 85
+Abrimos el email 8 de la bandeja
+Thread-0 :::BATERIA::: 84
+Enviamos el email 1 a la bandeja
+Thread-11 :::BATERIA::: 83
+Enviamos el email 0 a la bandeja
+Thread-11 :::BATERIA::: 82
+Enviamos el email 2 a la bandeja
+Thread-11 :::BATERIA::: 81
+Enviamos el email 4 a la bandeja
+Thread-11 :::BATERIA::: 80
+Enviamos el email 1 a la bandeja
+Thread-11 :::BATERIA::: 79
+Enviamos el email 3 a la bandeja
+Thread-11 :::BATERIA::: 78
+Enviamos el email 1 a la bandeja
+Thread-11 :::BATERIA::: 77
+Enviamos el email 5 a la bandeja
+Thread-11 :::BATERIA::: 76
+Enviamos el email 4 a la bandeja
+Thread-3 :::BATERIA::: 75
+Enviamos el email 5 a la bandeja
+Thread-3 :::BATERIA::: 74
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena

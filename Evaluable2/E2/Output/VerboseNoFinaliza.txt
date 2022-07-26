@@ -1,0 +1,44 @@
+___________________InicioMain__________________
+Thread-7 :::BATERIA::: 20
+Thread-4 :::BATERIA::: 60
+Thread-0 :::BATERIA::: 90
+Thread-5 :::BATERIA::: 40
+Thread-1 :::BATERIA::: 70
+Thread-2 :::BATERIA::: 80
+Thread-3 :::BATERIA::: 50
+Thread-8 :::BATERIA::: 10
+Thread-6 :::BATERIA::: 30
+Bandeja Vacía
+Enviamos el email 9 a la bandeja
+Abrimos el email 9 de la bandeja
+Bandeja Vacía
+Enviamos el email 1 a la bandeja
+Abrimos el email 1 de la bandeja
+Enviamos el email 0 a la bandeja
+Abrimos el email 0 de la bandeja
+Enviamos el email 6 a la bandeja
+Abrimos el email 6 de la bandeja
+Bandeja Vacía
+
+___________________InicioMain__________________
+Thread-0 :::BATERIA::: 90
+Thread-7 :::BATERIA::: 10
+Thread-4 :::BATERIA::: 50
+Thread-1 :::BATERIA::: 70
+Thread-9 :::BATERIA::: 80
+Thread-2 :::BATERIA::: 50
+Thread-5 :::BATERIA::: 30
+Bandeja Vacía
+Thread-6 :::BATERIA::: 20
+Thread-3 :::BATERIA::: 40
+Bandeja Vacía
+Enviamos el email 4 a la bandeja
+Enviamos el email 1 a la bandeja
+Abrimos el email 1 de la bandeja
+Abrimos el email 4 de la bandeja
+Enviamos el email 5 a la bandeja
+Enviamos el email 9 a la bandeja
+Abrimos el email 9 de la bandeja
+Abrimos el email 5 de la bandeja
+Bandeja Vacía
+

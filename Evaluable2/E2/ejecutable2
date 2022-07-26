@@ -1,0 +1,20 @@
+#!/bin/bash
+cont1=1
+cont2=6
+i=6
+rm outputE1_temporizado.txt
+javac p2e2LocksTemporizador_pruebas.java
+# javac p2e2_locks.java
+while [ $i -ne 0 ]
+do
+    con1=$(($cont1+1))
+    cont2=$(($cont2-1))
+    # ----------------------------------------------
+    # EJERCICIO 2:
+    java p2e2LocksTemporizador_pruebas $cont1 $cont2 >> outputE2_locksTemporizador_pruebas.txt
+    java p2e2LocksTemporizador_pruebas $cont2 $cont1 >> outputE2_locksTemporizador_pruebas.txt
+    # java p2e2_locks_temporizador $cont2 $cont1 >> outputE2_locks_temporizador.txt
+    # java p2e2_locks $cont1 $cont2 >> outputE2.txt
+    # java p2e2_locks $cont2 $cont1 >> outputE2.txt
+    i=$(($i-1))
+done

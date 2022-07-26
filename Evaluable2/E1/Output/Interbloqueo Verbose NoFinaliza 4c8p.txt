@@ -1,0 +1,72 @@
+___________________InicioMain__________________
+Thread-9 :::BATERIA::: 60
+Thread-0 :::BATERIA::: 90
+Thread-2 :::BATERIA::: 70
+Thread-3 :::BATERIA::: 60
+Thread-11 :::BATERIA::: 60
+Thread-10 :::BATERIA::: 60
+Thread-1 :::BATERIA::: 80
+Bandeja Vacía
+Thread-8 :::BATERIA::: 60
+Thread-5 :::BATERIA::: 60
+Thread-4 :::BATERIA::: 60
+Thread-7 :::BATERIA::: 60
+Thread-6 :::BATERIA::: 60
+Enviamos el email 8 a la bandeja
+Thread-10 :::BATERIA::: 60
+Abrimos el email 8 de la bandeja
+Thread-1 :::BATERIA::: 50
+Enviamos el email 8 a la bandeja
+Thread-11 :::BATERIA::: 50
+Enviamos el email 5 a la bandeja
+Thread-9 :::BATERIA::: 50
+Abrimos el email 5 de la bandeja
+Thread-2 :::BATERIA::: 40
+Abrimos el email 8 de la bandeja
+Thread-3 :::BATERIA::: 30
+Bandeja Vacía
+Exception in thread "Thread-2" Enviamos el email 2 a la bandeja
+Thread-9 :::BATERIA::: 30
+java.util.NoSuchElementException
+Enviamos el email 8 a la bandeja
+Thread-11 :::BATERIA::: 30
+Abrimos el email 8 de la bandeja
+Thread-1 :::BATERIA::: 20
+        at java.base/java.util.LinkedList.removeLast(LinkedList.java:287)Enviamos el email 1 a la bandeja
+
+        at Buffer.abrir(p2e1.java:168)
+        at Reader.run(p2e1.java:133)Thread-10 :::BATERIA::: 20
+
+Abrimos el email 1 de la bandeja
+Thread-0 :::BATERIA::: 10
+Enviamos el email 8 a la bandeja
+Thread-6 :::BATERIA::: 10
+Enviamos el email 2 a la bandeja
+Thread-7 :::BATERIA::: 10
+Enviamos el email 5 a la bandeja
+Thread-4 :::BATERIA::: 10
+Enviamos el email 9 a la bandeja
+Thread-5 :::BATERIA::: 10
+Enviamos el email 1 a la bandeja
+Thread-8 :::BATERIA::: 10
+Enviamos el email 0 a la bandeja
+Thread-5 :::BATERIA::: 10
+Enviamos el email 5 a la bandeja
+Thread-4 :::BATERIA::: 10
+Enviamos el email 1 a la bandeja
+Enviamos el email 0 a la bandeja
+Thread-7 :::BATERIA::: 10
+Thread-6 :::BATERIA::: 10
+Abrimos el email 0 de la bandeja
+Enviamos el email 9 a la bandeja
+Bandeja Llena
+Abrimos el email 9 de la bandeja
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Abrimos el email 6 de la bandeja
+Enviamos el email 6 a la bandeja
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena
+Bandeja Llena

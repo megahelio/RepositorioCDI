@@ -1,0 +1,19 @@
+#!/bin/bash
+cont1=1
+cont2=16
+i=16
+# javac p2e3_BlockingQueue.java
+javac p2e3BlockingQueueTemporizada_pruebas.java
+while [ $i -ne 0 ]
+do
+    con1=$(($cont1+1))
+    cont2=$(($cont2-1))
+    # -----------------------------------------------
+    # EJERCICIO 2:
+    # java p2e3_BlockingQueue $cont1 $cont2 >> outputE3_blockingQueue.txt
+    # java p2e3_BlockingQueue $cont2 $cont1 >> outputE3_blockingQueue.txt
+    java p2e3BlockingQueueTemporizada_pruebas $cont1 $cont2 >> outputE3_blockingQueueTemporizada.txt
+    java p2e3BlockingQueueTemporizada_pruebas $cont2 $cont1 >> outputE3_blockingQueueTemporizada.txt
+    i=$(($i-1))
+    
+done
